@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sokx93
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning software engineering 
-- 💞️ I’m looking to collaborate on studies
+- 💞️ I’m looking to collaborate on auto mobile
 - 📫 How to reach me skmotsweletsane@gmail.com
 
 <!---
